@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\bin\Debug\Lab_5_GOST_89.exe.config
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\bin\Debug\Lab_5_GOST_89.exe
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\bin\Debug\Lab_5_GOST_89.pdb
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.Form1.resources
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.Properties.Resources.resources
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.exe
+C:\Users\User\source\repos\Lab_5_GOST_89\Lab_5_GOST_89\obj\Debug\Lab_5_GOST_89.pdb
